@@ -1,0 +1,15 @@
+.nav-link {
+  color: black;
+  margin-left: 50px;
+}
+
+ul.nav.justify-content-end {
+  margin-right: 50px;
+}
+
+.container-sza{
+ background-image: url('../images//170720_sza-courtesy-of-rca-records.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 95vh;
+}
