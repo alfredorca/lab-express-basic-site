@@ -3,13 +3,63 @@
   margin-left: 50px;
 }
 
+.navbar-brand {
+  font-size: 1.5em;
+  display: flex;
+}
+
 ul.nav.justify-content-end {
   margin-right: 50px;
 }
 
-.container-sza{
- background-image: url('../images//170720_sza-courtesy-of-rca-records.jpg');
- background-repeat: no-repeat;
- background-size: cover;
- height: 95vh;
+.container-vv{
+ background-image: url('../images//biggieBackground.jpg');
+ background-repeat:round;
+ background-size:cover;
+ opacity: 0.8;
+ height: 85vh;
+ position: relative;
+}
+
+#biggie {
+  margin-left: 0.5vw;
+  color: black;
+}
+
+.vinil {
+  margin-top: -0.1vh;
+}
+
+.nav-item > a:hover {
+  color: rgb(240, 240, 23);
+}
+
+.home-text h1 {
+  font-size: 7.5em;
+  position: absolute;
+  top: 10vh;
+  left: 30vw;
+}
+
+.description{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #e3d8c3;
+  padding-top: 4vh;
+}
+
+.description h2 {
+  font-size: 4em;
+  color: rgb(143, 77, 39);
+}
+
+.description p {
+  width: 60%;
+  margin-top: 3vh;
+  color: rgb(143, 77, 39);
+  font-size: 1.5em;
+  text-align:justify;
 }
