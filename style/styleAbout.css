@@ -1,0 +1,188 @@
+.nav-link {
+  color: white;
+  margin-left: 50px;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  display: flex;
+}
+
+ul.nav.justify-content-end {
+  margin-right: 50px;
+}
+
+.container-vv{
+ background-image: url('../images//biggieBackground.jpg');
+ background-repeat:round;
+ background-size:cover;
+ opacity: 0.8;
+ height: 85vh;
+ position: relative;
+}
+
+#biggie {
+  margin-left: 0.9vw;
+  color: white;
+}
+
+.vinil {
+  margin-top: -0.1vh;
+}
+
+.nav-item > a:hover {
+  color: #e3d8c3;
+
+}
+
+.description{
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #e3d8c3;
+  padding-top: 4vh;
+  /* height: 91.5vh; */
+}
+
+.description-title {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  font-size: 8vh;
+}
+
+.description-title img {
+  border-radius: 12px;
+}
+
+.description h2 {
+  font-size: 4em;
+  color: rgb(143, 77, 39);
+}
+
+.p1 {
+  width: 48%;
+  margin-top: -10vh;
+  color: rgb(143, 77, 39);
+  font-size: 1.5em;
+  margin-left: 4vw;
+  text-align: justify;
+  
+}
+
+.p2 {
+  width: 70%;
+  /* margin-top: -20vh; */
+  color: rgb(143, 77, 39);
+  font-size: 1.5em;
+  margin-left: 4vw;
+  text-align: justify;
+}
+
+.p3 {
+  
+    width: 70%;
+    padding-bottom: 5vh;
+    color: rgb(143, 77, 39);
+    font-size: 1.5em;
+    margin-left: 4vw;
+    text-align: justify;
+}
+
+
+.lirico {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  font-size: 8vh;
+}
+
+.lirico img {
+  min-width: 30vw;
+  border-radius: 12px;
+}
+
+.lirico-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 100%;
+}
+
+.p21 {
+  width: 48%;
+  margin-top: -20vh;
+  color: rgb(143, 77, 39);
+  font-size: 1.5em;
+  margin-right: 4vw;
+  text-align: justify;
+  
+}
+
+.p22 {
+  width: 80%;
+  /* margin-top: -20vh; */
+  color: rgb(143, 77, 39);
+  font-size: 1.5em;
+  margin-right: 4vw;
+  text-align: justify;
+  text-indent: 31.7vw;
+}
+
+.p23 {
+    width: 80%;
+    padding-bottom: 5vh;
+    color: rgb(143, 77, 39);
+    font-size: 1.5em;
+    margin-right: 4vw;
+    text-align: justify;
+}
+
+.shohai {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  font-size: 8vh;
+}
+
+.shohai img {
+  min-width: 30vw;
+  border-radius: 12px;
+}
+
+.shohai-text {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.p31 {
+  width: 55%;
+  margin-top: -20vh;
+  color: rgb(143, 77, 39);
+  font-size: 1.5em;
+  margin-left: 4vw;
+  text-align: justify;
+  
+}
+
+.p32 {
+  width: 80%;
+  /* margin-top: -20vh; */
+  color: rgb(143, 77, 39);
+  font-size: 1.5em;
+  margin-left: 4vw;
+  text-align: justify;
+  /* text-indent: 31.7vw; */
+}
+
+.p33 {
+    width: 80%;
+    padding-bottom: 5vh;
+    color: rgb(143, 77, 39);
+    font-size: 1.5em;
+    margin-left: 4vw;
+    text-align: justify;
+}

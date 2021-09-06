@@ -22,7 +22,7 @@ ul.nav.justify-content-end {
 }
 
 #biggie {
-  margin-left: 0.5vw;
+  margin-left: 0.9vw;
   color: black;
 }
 
@@ -35,10 +35,10 @@ ul.nav.justify-content-end {
 }
 
 .home-text h1 {
-  font-size: 7.5em;
+  font-size: 10vh;
   position: absolute;
-  top: 10vh;
-  left: 30vw;
+  top: 10%;
+  left: 28%;
 }
 
 .description{
